@@ -79,7 +79,7 @@ h3 {
 
 .bg {
   position: absolute;
-  background: #333 url(/images/suqinghai.jpg);
+  background: #333 url(./images/suqinghai.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
