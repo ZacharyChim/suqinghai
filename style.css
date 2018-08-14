@@ -274,11 +274,12 @@ h3 {
 
 #post {
   background: #fff;
+  padding: 1em;
 }
 
 #post .post-content p {
   line-height: 2em;
-  font-size: 1.2em;
+  font-size: 1.1em;
   text-align: left;
   display: block;
   margin-bottom: 1em;
