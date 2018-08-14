@@ -22,7 +22,7 @@ h3 {
   background: #fff;
   display: flex;
   justify-content: space-between;
-  padding: 0.5rem 2rem;
+  padding: 0.5rem 4rem;
   box-shadow: 0 5px 10px #eaeaea;
   border-bottom: 1px solid #eaeaea;
 }
@@ -285,6 +285,10 @@ h3 {
   text-align: left;
   display: block;
   margin-bottom: 1em;
+}
+
+#post .post-content h2 {
+  text-align: left;
 }
 
 @font-face {
