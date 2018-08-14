@@ -286,12 +286,12 @@ h3 {
 
 @font-face {
   font-family: 'fontsu';
-  src: url('../font/fontsu.eot?94040684');
-  src: url('../font/fontsu.eot?94040684#iefix') format('embedded-opentype'),
-       url('../font/fontsu.woff2?94040684') format('woff2'),
-       url('../font/fontsu.woff?94040684') format('woff'),
-       url('../font/fontsu.ttf?94040684') format('truetype'),
-       url('../font/fontsu.svg?94040684#fontsu') format('svg');
+  src: url('./font/fontsu.eot?94040684');
+  src: url('./font/fontsu.eot?94040684#iefix') format('embedded-opentype'),
+       url('./font/fontsu.woff2?94040684') format('woff2'),
+       url('./font/fontsu.woff?94040684') format('woff'),
+       url('./font/fontsu.ttf?94040684') format('truetype'),
+       url('./font/fontsu.svg?94040684#fontsu') format('svg');
   font-weight: normal;
   font-style: normal;
 }
